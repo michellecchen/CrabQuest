@@ -4,6 +4,8 @@ CrabQuest is a simple game about an unexpected symbiosis between a giant crab mo
 
 It was made in Unity.
 
+![image](https://i.imgur.com/OtR8fyh.png)
+
 ## Features (Current)
 
 - Non-humanoid third-person player
