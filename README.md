@@ -1,6 +1,6 @@
 # CrabQuest
 
-**CrabQuest** is a simple game about an unexpected symbiosis between a giant crab monster and a sickly father mole.
+**CrabQuest** is a simple point-and-click game about an unexpected symbiosis between a giant crab monster and a sickly father mole.
 
 It was made in Unity.
 
