@@ -2,7 +2,9 @@
 
 **CrabQuest** is a point-and-click game about an unexpected symbiosis between a giant crab monster and a family of moles.
 
-It was made in Unity.
+It was made in Unity's HDRP.
+
+Video demo [here](https://drive.google.com/file/d/1D9nqHcKEmP8n2KLOP8kVrA65Nrs0uEo2/view?usp=sharing).
 
 ![image1](https://i.imgur.com/xgLrgxK.png)
 
